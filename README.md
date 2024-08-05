@@ -57,7 +57,7 @@ Inside this function, first we need to pass a dictionary. Inside this dictionary
 
 
 ### 8. Data Splitting
-First, we create the *feature DataFrame* by dropping the target column, which is **Calories ** from the original DataFrame and saving it in a new DF. Then we create a *target Series* by only selecting the target column and saving it in a new DF.
+First, we create the *feature DataFrame* by dropping the target column, which is **Calories** from the original DataFrame and saving it in a new DF. Then we create a *target Series* by only selecting the target column and saving it in a new DF.
 
 Then we use the Seaborn's function `.train_test_split()` to split the dataset into training dataset and testing dataset.
 
