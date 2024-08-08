@@ -71,4 +71,8 @@ After predicting the target values, we evaluate our model by finding it's Mean A
 
 <br>
 
+> This project was a complete walkthrough of this [tutorial](https://youtu.be/ZD27QTvSbTY?si=xsmc19FyvMMW6hWN) by Siddhardhan.
+
+ <br>
+
 ---------
