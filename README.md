@@ -1,4 +1,4 @@
-# Predicting Medical Insurance Cost
+# Predicting Calories Burnt During Exercise
 
 In this project, we will try to predict the calories burnt by a person after doing some physical exercises. 
 
